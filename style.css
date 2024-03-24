@@ -1,0 +1,75 @@
+*{
+    background-color: rgb(22, 25, 30);
+}
+
+.input{
+    height: 60px;
+    width: 100%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.c{
+    width: 40%;
+    background-color: rgb(89, 95, 101);
+    height: 80px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    display: flex;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.blue{
+    width: 40%;
+    background-color: rgb(56, 87, 154);  
+    height: 80px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    display: flex;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.col1{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+
+}
+.grey{
+    width: 20%;
+    background-color: rgb(65, 69, 73);  
+    height: 80px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    display: flex;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.blue2{
+    width: 20%;
+    background-color: rgb(56, 87, 154);  
+    height: 80px;
+    border-radius: 16px;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    display: flex;
+    font-size: xx-large;
+    cursor: pointer;
+}
+.colcul{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.input{
+    pointer-events: none;
+    color: aliceblue;
+    font-size: xx-large;
+
+}
